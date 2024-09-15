@@ -7,8 +7,6 @@ This project involves web scraping and automation tasks using Python, focusing o
 1. [Part 1: Scraping and Saving HTML Content](#part-1-scraping-and-saving-html-content)
 2. [Part 2: Parsing and Displaying Information from Saved HTML](#part-2-parsing-and-displaying-information-from-saved-html)
 3. [Part 3: Automating Login on The Old Reader](#part-3-automating-login-on-the-old-reader)
-4. [Setup and Requirements](#setup-and-requirements)
-5. [Notes](#notes)
 
 ## Part 1: Scraping and Saving HTML Content
 
